@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "name": "abcre-constitutional-concierge",
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
+    }
+  ],
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "8699481956:AAGfVeoAEhNEJ-Pp8nM-XtWquuq86d1b-zY"
+  }
+}
