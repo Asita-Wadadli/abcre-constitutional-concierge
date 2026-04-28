@@ -1,0 +1,5326 @@
+{
+  "chunks": [
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The State and its territory.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The State and its territory.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Constitution is supreme law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Constitution is supreme law",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Fundamental rights and freedoms of the individual",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Fundamental rights and freedoms of the individual",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Protection of right to life . . .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Protection of right to life . . .",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Protection of right to personal liberty.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Protection of right to personal liberty.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Protection from slavery and forced labour",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Protection from slavery and forced labour",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Protection from inhuman treatment. .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Protection from inhuman treatment. .",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. Protection from freedom of movement",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "Protection from freedom of movement",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. Protection from deprivation of property.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "Protection from deprivation of property.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. Protection of person or property from arbitrary search or entry",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "Protection of person or property from arbitrary search or entry",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. Protection of freedom of conscience",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "Protection of freedom of conscience",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec12",
+      "text": "12. Protection of freedom of expression including freedom of the press",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "12",
+        "title": "Protection of freedom of expression including freedom of the press",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec13",
+      "text": "13. Protection of freedom of assembly and association",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "13",
+        "title": "Protection of freedom of assembly and association",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec14",
+      "text": "14. Protection from discrimination on the grounds of race, sex etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "14",
+        "title": "Protection from discrimination on the grounds of race, sex etc",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec15",
+      "text": "15. Provision to secure protection of the law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "15",
+        "title": "Provision to secure protection of the law",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec16",
+      "text": "16. Derogations from fundamental rights and freedoms under emergency powers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "16",
+        "title": "Derogations from fundamental rights and freedoms under emergency powers",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec17",
+      "text": "17. Protection of persons detained-under emergency laws",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "17",
+        "title": "Protection of persons detained-under emergency laws",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec18",
+      "text": "18. Enforcement of protective provisions . . .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "18",
+        "title": "Enforcement of protective provisions . . .",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec19",
+      "text": "19. Protection from derogations from fundamental rights and freedoms generally.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "19",
+        "title": "Protection from derogations from fundamental rights and freedoms generally.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec20",
+      "text": "20. Declaration of public emergency",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "20",
+        "title": "Declaration of public emergency",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec21",
+      "text": "21. Interpretation and savings. .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "21",
+        "title": "Interpretation and savings. .",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec22",
+      "text": "22. Establishment of office",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "22",
+        "title": "Establishment of office",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec23",
+      "text": "23. Acting Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "23",
+        "title": "Acting Governor-General",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec25",
+      "text": "25. Deputy to Governor-General.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "25",
+        "title": "Deputy to Governor-General.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec26",
+      "text": "26. Public Seal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "26",
+        "title": "Public Seal",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec27",
+      "text": "27. Establishment of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "27",
+        "title": "Establishment of Parliament",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec28",
+      "text": "28. Composition of the Senate. .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "28",
+        "title": "Composition of the Senate. .",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec29",
+      "text": "29. Qualifications for appointment as Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "29",
+        "title": "Qualifications for appointment as Senators",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec30",
+      "text": "30. Disqualifications from appointment as Senators.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "30",
+        "title": "Disqualifications from appointment as Senators.",
+        "page": 2
+      }
+    },
+    {
+      "id": "const-1981-sec31",
+      "text": "31. Tenure of office of Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "31",
+        "title": "Tenure of office of Senators",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec32",
+      "text": "32. Appointment of temporary Senators.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "32",
+        "title": "Appointment of temporary Senators.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec33",
+      "text": "33. President and Vice-President .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "33",
+        "title": "President and Vice-President .",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec34",
+      "text": "34. Attendance of Attorney-General at proceedings of Senate",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "34",
+        "title": "Attendance of Attorney-General at proceedings of Senate",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec35",
+      "text": "35. Attendance at proceedings of Senate of Ministers who are members of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "35",
+        "title": "Attendance at proceedings of Senate of Ministers who are members of the House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec36",
+      "text": "36. Composition of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "36",
+        "title": "Composition of the House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec37",
+      "text": "37. Attendance at proceedings of the House of Ministers who are Senators.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "37",
+        "title": "Attendance at proceedings of the House of Ministers who are Senators.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec38",
+      "text": "38. Qualifications for election as a member of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "38",
+        "title": "Qualifications for election as a member of the House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec39",
+      "text": "39. Disqualifications from election as a member of the House.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "39",
+        "title": "Disqualifications from election as a member of the House.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec40",
+      "text": "40. Election of members of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "40",
+        "title": "Election of members of the House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec41",
+      "text": "41. Tenure of seats of members of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "41",
+        "title": "Tenure of seats of members of the House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec42",
+      "text": "42. Speaker and Deputy Speaker",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "42",
+        "title": "Speaker and Deputy Speaker",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec43",
+      "text": "43. Clerks to Houses of Parliament and their staffs",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "43",
+        "title": "Clerks to Houses of Parliament and their staffs",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec44",
+      "text": "44. Determination of questions of membership",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "44",
+        "title": "Determination of questions of membership",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec45",
+      "text": "45. Unqualified persons sitting or voting.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "45",
+        "title": "Unqualified persons sitting or voting.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec46",
+      "text": "46. Power to make laws",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "46",
+        "title": "Power to make laws",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec47",
+      "text": "47. Alteration of this Constitution and Supreme Court Order.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "47",
+        "title": "Alteration of this Constitution and Supreme Court Order.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec48",
+      "text": "48. Oath of allegiance by members of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "48",
+        "title": "Oath of allegiance by members of Parliament",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec49",
+      "text": "49. Presiding in Senate and House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "49",
+        "title": "Presiding in Senate and House",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec50",
+      "text": "50. Quorom..",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "50",
+        "title": "Quorom..",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec51",
+      "text": "51. Voting.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "51",
+        "title": "Voting.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec52",
+      "text": "52. Mode of exercising legislative power",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "52",
+        "title": "Mode of exercising legislative power",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec53",
+      "text": "53. Restrictions with regard to certain financial measures",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "53",
+        "title": "Restrictions with regard to certain financial measures",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec54",
+      "text": "54. Restrictions on powers of Senate as to money bills.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "54",
+        "title": "Restrictions on powers of Senate as to money bills.",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec55",
+      "text": "55. Restrictions on powers of Senate as to bills other than money bills",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "55",
+        "title": "Restrictions on powers of Senate as to bills other than money bills",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec56",
+      "text": "56. Provisions relating to sections 53, 54 and 55",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "56",
+        "title": "Provisions relating to sections 53, 54 and 55",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec57",
+      "text": "57. Regulation of Procedure of Houses of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "57",
+        "title": "Regulation of Procedure of Houses of Parliament",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec58",
+      "text": "58. Freedom of speech in proceedings of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "58",
+        "title": "Freedom of speech in proceedings of Parliament",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec59",
+      "text": "59. Sessions of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "59",
+        "title": "Sessions of Parliament",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec60",
+      "text": "60. Prorogation and dissolution of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "60",
+        "title": "Prorogation and dissolution of Parliament",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec61",
+      "text": "61. General elections and appointment of Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "61",
+        "title": "General elections and appointment of Senators",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec62",
+      "text": "62. Constituencies",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "62",
+        "title": "Constituencies",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec63",
+      "text": "63. Constituencies Boundaries Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "63",
+        "title": "Constituencies Boundaries Commission",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec64",
+      "text": "64. Report by Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "64",
+        "title": "Report by Commission",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec65",
+      "text": "65. Procedure upon Report . .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "65",
+        "title": "Procedure upon Report . .",
+        "page": 3
+      }
+    },
+    {
+      "id": "const-1981-sec66",
+      "text": "66. Establishment, appointment, functions etc. of Ombudsman",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "66",
+        "title": "Establishment, appointment, functions etc. of Ombudsman",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec67",
+      "text": "67. Appointment, functions and removal of Supervisor of Elections",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "67",
+        "title": "Appointment, functions and removal of Supervisor of Elections",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec68",
+      "text": "68. Executive authority. .",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "68",
+        "title": "Executive authority. .",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec69",
+      "text": "69. Ministers of Government.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "69",
+        "title": "Ministers of Government.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec70",
+      "text": "70. The Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "70",
+        "title": "The Cabinet",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec71",
+      "text": "71. Allocation of portfolios",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "71",
+        "title": "Allocation of portfolios",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec72",
+      "text": "72. Summoning of Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "72",
+        "title": "Summoning of Cabinet",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec73",
+      "text": "73. Tenure of office of Ministers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "73",
+        "title": "Tenure of office of Ministers",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec74",
+      "text": "74. Performance of functions of Prime Minister during absence, illness or suspension",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "74",
+        "title": "Performance of functions of Prime Minister during absence, illness or suspension",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec75",
+      "text": "75. Parliamentary Secretaries.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "75",
+        "title": "Parliamentary Secretaries.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec76",
+      "text": "76. Oaths to be taken by Ministers and Parliamentary Secretaries",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "76",
+        "title": "Oaths to be taken by Ministers and Parliamentary Secretaries",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec77",
+      "text": "77. Secretary to the Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "77",
+        "title": "Secretary to the Cabinet",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec78",
+      "text": "78. Permanent Secretaries",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "78",
+        "title": "Permanent Secretaries",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec79",
+      "text": "79. Leader of the Opposition.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "79",
+        "title": "Leader of the Opposition.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec80",
+      "text": "80. Exercise of Governor-General's functions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "80",
+        "title": "Exercise of Governor-General's functions",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec81",
+      "text": "81. Governor-General to be informed concerning Government matters",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "81",
+        "title": "Governor-General to be informed concerning Government matters",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec82",
+      "text": "82. Attorney-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "82",
+        "title": "Attorney-General",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec83",
+      "text": "83. Exercise of certain powers of Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "83",
+        "title": "Exercise of certain powers of Governor-General",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec84",
+      "text": "84. Power of pardon.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "84",
+        "title": "Power of pardon.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec85",
+      "text": "85. Advisory Committee on Prerogative of Mercy",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "85",
+        "title": "Advisory Committee on Prerogative of Mercy",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec86",
+      "text": "86. Functions of Advisory Committee",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "86",
+        "title": "Functions of Advisory Committee",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec87",
+      "text": "87. Appointment and removal of Director of Public Prosecutions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "87",
+        "title": "Appointment and removal of Director of Public Prosecutions",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec88",
+      "text": "88. Powers and functions of Director of Public Prosecutions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "88",
+        "title": "Powers and functions of Director of Public Prosecutions",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec89",
+      "text": "89. Directions to Director of Public Prosecutions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "89",
+        "title": "Directions to Director of Public Prosecutions",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec90",
+      "text": "90. Consolidated Fund",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "90",
+        "title": "Consolidated Fund",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec91",
+      "text": "91. Withdrawals from Consolidated Fund or other public funds",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "91",
+        "title": "Withdrawals from Consolidated Fund or other public funds",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec92",
+      "text": "92. Authorisation of Expenditure from Consolidated Fund by appropriation law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "92",
+        "title": "Authorisation of Expenditure from Consolidated Fund by appropriation law",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec93",
+      "text": "93. Authorisation of expenditure in advance of appropriation",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "93",
+        "title": "Authorisation of expenditure in advance of appropriation",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec94",
+      "text": "94. Contingencies Fund",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "94",
+        "title": "Contingencies Fund",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec95",
+      "text": "95. Remuneration of certain officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "95",
+        "title": "Remuneration of certain officers",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec96",
+      "text": "96. Public debt.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "96",
+        "title": "Public debt.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec97",
+      "text": "97. Audit of public accounts etc.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "97",
+        "title": "Audit of public accounts etc.",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec98",
+      "text": "98. Public Accounts Committee",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "98",
+        "title": "Public Accounts Committee",
+        "page": 4
+      }
+    },
+    {
+      "id": "const-1981-sec99",
+      "text": "99. Establishment and composition of Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "99",
+        "title": "Establishment and composition of Commission",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec100",
+      "text": "100. Appointment etc. of public officers.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "100",
+        "title": "Appointment etc. of public officers.",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec101",
+      "text": "101. Appointment etc. of permanent secretaries and certain other officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "101",
+        "title": "Appointment etc. of permanent secretaries and certain other officers",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec102",
+      "text": "102. The Director of Audit",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "102",
+        "title": "The Director of Audit",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec103",
+      "text": "103. Appointment etc. of magistrates, registrars and legal officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "103",
+        "title": "Appointment etc. of magistrates, registrars and legal officers",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec104",
+      "text": "104. Establishment and composition of Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "104",
+        "title": "Establishment and composition of Commission",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec105",
+      "text": "105. Appointment etc. of Police Officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "105",
+        "title": "Appointment etc. of Police Officers",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec106",
+      "text": "106. Constitution of Board, etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "106",
+        "title": "Constitution of Board, etc",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec107",
+      "text": "107. Appeals in disciplinary cases",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "107",
+        "title": "Appeals in disciplinary cases",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec108",
+      "text": "108. Powers and procedure of Board",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "108",
+        "title": "Powers and procedure of Board",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec109",
+      "text": "109. Pensions laws and protection of pensions rights.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "109",
+        "title": "Pensions laws and protection of pensions rights.",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec110",
+      "text": "110. Power to withhold pensions etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "110",
+        "title": "Power to withhold pensions etc",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec111",
+      "text": "111. Belonger status",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "111",
+        "title": "Belonger status",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec112",
+      "text": "112. Persons who automatically become citizens at commencement of this Constitution",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "112",
+        "title": "Persons who automatically become citizens at commencement of this Constitution",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec113",
+      "text": "113. Persons who automatically become citizens after commencement of this Constitution.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "113",
+        "title": "Persons who automatically become citizens after commencement of this Constitution.",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec114",
+      "text": "114. Persons entitled to citizenship by registration after commencement of this Constitution ..73",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "114",
+        "title": "Persons entitled to citizenship by registration after commencement of this Constitution ..73",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec115",
+      "text": "115. Dual citizenship",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "115",
+        "title": "Dual citizenship",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec116",
+      "text": "116. Powers of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "116",
+        "title": "Powers of Parliament",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec117",
+      "text": "117. Oath of allegiance.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "117",
+        "title": "Oath of allegiance.",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec118",
+      "text": "118. Interpretation",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "118",
+        "title": "Interpretation",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec119",
+      "text": "119. Original jurisdiction of High Court in constitutional questions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "119",
+        "title": "Original jurisdiction of High Court in constitutional questions",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec120",
+      "text": "120. Reference of constitutional questions to High Court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "120",
+        "title": "Reference of constitutional questions to High Court",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec121",
+      "text": "121. Appeals to Court of Appeal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "121",
+        "title": "Appeals to Court of Appeal",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec122",
+      "text": "122. Appeals to Her Majesty in Council",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "122",
+        "title": "Appeals to Her Majesty in Council",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec123",
+      "text": "123. Local government.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "123",
+        "title": "Local government.",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec124",
+      "text": "124. Certain questions not to be enquired into in any court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "124",
+        "title": "Certain questions not to be enquired into in any court",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec125",
+      "text": "125. Resignations",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "125",
+        "title": "Resignations",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec126",
+      "text": "126. Reappointments and concurrent appointments",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "126",
+        "title": "Reappointments and concurrent appointments",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec127",
+      "text": "127. Interpretation",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "127",
+        "title": "Interpretation",
+        "page": 5
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The State and its territory",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The State and its territory",
+        "page": 7
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Constitution is supreme law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Constitution is supreme law",
+        "page": 8
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Fundamental rights and freedoms of the individual",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Fundamental rights and freedoms of the individual",
+        "page": 8
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Protection of right to life",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Protection of right to life",
+        "page": 8
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. A person shall not be regarded as having been deprived of his life in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "A person shall not be regarded as having been deprived of his life in",
+        "page": 8
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Protection of right to personal liberty",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Protection of right to personal liberty",
+        "page": 9
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Any person who is arrested or detained shall be informed orally and in writing as",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Any person who is arrested or detained shall be informed orally and in writing as",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Any person who is arrested or detained shall have the right, at any stage and at",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Any person who is arrested or detained shall have the right, at any stage and at",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. When a person is arrested, excessive bail shall not be required in those cases",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "When a person is arrested, excessive bail shall not be required in those cases",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Any person who is arrested or detained-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Any person who is arrested or detained-",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. If any person arrested or detained as mentioned in subsection (5)(b) of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "If any person arrested or detained as mentioned in subsection (5)(b) of this",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Any person who is unlawfully arrested or detained by any other person shall,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Any person who is unlawfully arrested or detained by any other person shall,",
+        "page": 10
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Protection from slavery and forced labour",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Protection from slavery and forced labour",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. No person shall be held in slavery or servitude.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "No person shall be held in slavery or servitude.",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Protection from inhuman treatment",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Protection from inhuman treatment",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. No person shall be subjected to torture or to inhuman or degrading punishment",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "No person shall be subjected to torture or to inhuman or degrading punishment",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. Protection from freedom of movement",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "Protection from freedom of movement",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Any restrictions on a person's freedom of movement that is involved in his",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Any restrictions on a person's freedom of movement that is involved in his",
+        "page": 11
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 12
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. Protection from deprivation of property",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "Protection from deprivation of property",
+        "page": 13
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. No property of any description shall be compulsorily taken possession of, and no",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "No property of any description shall be compulsorily taken possession of, and no",
+        "page": 13
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Every person having an interest in or right to or over property which is",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Every person having an interest in or right to or over property which is",
+        "page": 13
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Chief Justice may make rules with respect to the practice and procedure of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Chief Justice may make rules with respect to the practice and procedure of",
+        "page": 13
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 13
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Nothing contained in or done under the authority of any law enacted by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Nothing contained in or done under the authority of any law enacted by",
+        "page": 15
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. For the purposes of this section, \"use\" is \"public\" if it is intended to result or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "For the purposes of this section, \"use\" is \"public\" if it is intended to result or",
+        "page": 15
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. Protection of person or property from arbitrary search",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "Protection of person or property from arbitrary search",
+        "page": 15
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 15
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. Protection of freedom of conscience",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "Protection of freedom of conscience",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Except with his own consent, no person shall be hindered in the enjoyment of his",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Except with his own consent, no person shall be hindered in the enjoyment of his",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Except with his own consent (or, if he is under the age, of eighteen years, the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Except with his own consent (or, if he is under the age, of eighteen years, the",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Reference in this section to a religion shall be construed as including references",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Reference in this section to a religion shall be construed as including references",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec12",
+      "text": "12. Protection of freedom of expression including freedom",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "12",
+        "title": "Protection of freedom of expression including freedom",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Except with his own consent, no person shall be hindered in the enjoyment of his",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Except with his own consent, no person shall be hindered in the enjoyment of his",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 16
+      }
+    },
+    {
+      "id": "const-1981-sec13",
+      "text": "13. Protection of freedom of assembly and association",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "13",
+        "title": "Protection of freedom of assembly and association",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Except with his own consent, no person shall be hindered in the enjoyment of his",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Except with his own consent, no person shall be hindered in the enjoyment of his",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec14",
+      "text": "14. Protection from discrimination on the grounds of race,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "14",
+        "title": "Protection from discrimination on the grounds of race,",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of subsections (4), (5) and (7) of this section, no law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of subsections (4), (5) and (7) of this section, no law",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provisions of subsections (6), (7) and (8) of this section, no person",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provisions of subsections (6), (7) and (8) of this section, no person",
+        "page": 17
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Subsection (1) of this section shall not apply to any law so far as the law makes",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Subsection (1) of this section shall not apply to any law so far as the law makes",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Nothing contained in any law shall be held to be inconsistent with or in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Nothing contained in any law shall be held to be inconsistent with or in",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Subsection (2) of this section shall not apply to anything that is expressly or by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Subsection (2) of this section shall not apply to anything that is expressly or by",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. Nothing in subsection (2) of this section shall affect any discretion relating to the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "Nothing in subsection (2) of this section shall affect any discretion relating to the",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec15",
+      "text": "15. Provision to secure protection of the law",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "15",
+        "title": "Provision to secure protection of the law",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. If any person is charged with a criminal offence then, unless the charge is",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "If any person is charged with a criminal offence then, unless the charge is",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Every person who is charged with a criminal offence-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Every person who is charged with a criminal offence-",
+        "page": 18
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. No person who shows that he has been tried by a competent court for a criminal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "No person who shows that he has been tried by a competent court for a criminal",
+        "page": 19
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. No person who is tried for a criminal offence shall be compelled to give evidence",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "No person who is tried for a criminal offence shall be compelled to give evidence",
+        "page": 19
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. Any court or other authority prescribed by law for the determination of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "Any court or other authority prescribed by law for the determination of the",
+        "page": 19
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. Except with the agreement of all the parties thereto, all proceedings of every",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "Except with the agreement of all the parties thereto, all proceedings of every",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. Nothing in subsection (9) of this section shall prevent the court or other",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "Nothing in subsection (9) of this section shall prevent the court or other",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec12",
+      "text": "12. In the case of any person who is held in lawful detention, the provisions of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "12",
+        "title": "In the case of any person who is held in lawful detention, the provisions of",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec13",
+      "text": "13. Nothing contained in or done under the authority of any law shall be held to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "13",
+        "title": "Nothing contained in or done under the authority of any law shall be held to be",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec14",
+      "text": "14. In this section \"criminal offence\" means a criminal offence under any law.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "14",
+        "title": "In this section \"criminal offence\" means a criminal offence under any law.",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec16",
+      "text": "16. Derogations from fundamental rights and freedoms",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "16",
+        "title": "Derogations from fundamental rights and freedoms",
+        "page": 20
+      }
+    },
+    {
+      "id": "const-1981-sec17",
+      "text": "17. Protection of persons detained-under emergency laws",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "17",
+        "title": "Protection of persons detained-under emergency laws",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. When a person is detained by virtue of any such law as is referred to in section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "When a person is detained by virtue of any such law as is referred to in section",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. On any review by a tribunal in pursuance of this section of the case of a detained",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "On any review by a tribunal in pursuance of this section of the case of a detained",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Nothing contained in subsection (1)(d) or subsection (1)(e) of this section shall",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Nothing contained in subsection (1)(d) or subsection (1)(e) of this section shall",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec18",
+      "text": "18. Enforcement of protective provisions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "18",
+        "title": "Enforcement of protective provisions",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. If any person alleges that any of the provisions of sections 3 to 17 (inclusive) of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "If any person alleges that any of the provisions of sections 3 to 17 (inclusive) of",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The High Court shall have original jurisdiction-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The High Court shall have original jurisdiction-",
+        "page": 21
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. If in any proceedings in any court (other than the Court of Appeal, the High",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "If in any proceedings in any court (other than the Court of Appeal, the High",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. There shall be such provision as may be made by Parliament for conferring upon",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "There shall be such provision as may be made by Parliament for conferring upon",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The Chief Justice may make rules with respect to the practice and procedure of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The Chief Justice may make rules with respect to the practice and procedure of",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec19",
+      "text": "19. Protection from derogations from fundamental rights",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "19",
+        "title": "Protection from derogations from fundamental rights",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec20",
+      "text": "20. Declaration of public emergency",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "20",
+        "title": "Declaration of public emergency",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Governor-General may, by Proclamation which shall be published in the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Governor-General may, by Proclamation which shall be published in the",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Every declaration shall lapse-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Every declaration shall lapse-",
+        "page": 22
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A resolution of a House of Parliament passed for the purposes of this section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A resolution of a House of Parliament passed for the purposes of this section",
+        "page": 23
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Any provision of this section that a declaration of emergency shall lapse or cease",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Any provision of this section that a declaration of emergency shall lapse or cease",
+        "page": 23
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. A resolution of a House of Parliament for the purposes of subsection (2) of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "A resolution of a House of Parliament for the purposes of subsection (2) of this",
+        "page": 23
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. The Governor-General may summon the Houses of Parliament to meet for the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "The Governor-General may summon the Houses of Parliament to meet for the",
+        "page": 23
+      }
+    },
+    {
+      "id": "const-1981-sec21",
+      "text": "21. Interpretation and savings",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "21",
+        "title": "Interpretation and savings",
+        "page": 23
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A Proclamation made by the Governor-General shall not be effective for the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A Proclamation made by the Governor-General shall not be effective for the",
+        "page": 24
+      }
+    },
+    {
+      "id": "const-1981-sec22",
+      "text": "22. Establishment of office",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "22",
+        "title": "Establishment of office",
+        "page": 24
+      }
+    },
+    {
+      "id": "const-1981-sec23",
+      "text": "23. Acting Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "23",
+        "title": "Acting Governor-General",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. During any period when the office of Governor-General is vacant or the holder",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "During any period when the office of Governor-General is vacant or the holder",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Any such person as aforesaid shall not continue to perform the functions of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Any such person as aforesaid shall not continue to perform the functions of the",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The holder of the office of Governor-General shall not for the purposes of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The holder of the office of Governor-General shall not for the purposes of this",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec25",
+      "text": "25. Deputy to Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "25",
+        "title": "Deputy to Governor-General",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. When the Governor-General-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "When the Governor-General-",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The power and authority of the Governor-General shall not be abridged, altered",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The power and authority of the Governor-General shall not be abridged, altered",
+        "page": 25
+      }
+    },
+    {
+      "id": "const-1981-sec26",
+      "text": "26. Public Seal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "26",
+        "title": "Public Seal",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec27",
+      "text": "27. Establishment of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "27",
+        "title": "Establishment of Parliament",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec28",
+      "text": "28. Composition of the Senate",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "28",
+        "title": "Composition of the Senate",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Senate shall consist of seventeen persons who, being qualified for",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Senate shall consist of seventeen persons who, being qualified for",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Ten Senators shall be appointed by the Governor-General acting in accordance",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Ten Senators shall be appointed by the Governor-General acting in accordance",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Four Senators shall be appointed by the Governor-General acting in accordance",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Four Senators shall be appointed by the Governor-General acting in accordance",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Subject to subsection (7) of this section, one Senator shall be appointed by the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Subject to subsection (7) of this section, one Senator shall be appointed by the",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. One Senator shall be appointed by the Governor-General acting in accordance",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "One Senator shall be appointed by the Governor-General acting in accordance",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec29",
+      "text": "29. Qualifications for appointment as Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "29",
+        "title": "Qualifications for appointment as Senators",
+        "page": 26
+      }
+    },
+    {
+      "id": "const-1981-sec30",
+      "text": "30. Disqualifications from appointment as Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "30",
+        "title": "Disqualifications from appointment as Senators",
+        "page": 27
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. No person shall be qualified to be appointed as a Senator who-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "No person shall be qualified to be appointed as a Senator who-",
+        "page": 27
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Without prejudice to the provisions of subsection (1)(g) of this section,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Without prejudice to the provisions of subsection (1)(g) of this section,",
+        "page": 28
+      }
+    },
+    {
+      "id": "const-1981-sec31",
+      "text": "31. Tenure of office of Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "31",
+        "title": "Tenure of office of Senators",
+        "page": 28
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Every Senator shall vacate his seat in the Senate-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Every Senator shall vacate his seat in the Senate-",
+        "page": 28
+      }
+    },
+    {
+      "id": "const-1981-sec32",
+      "text": "32. Appointment of temporary Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "32",
+        "title": "Appointment of temporary Senators",
+        "page": 29
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The provisions of section 31 of this Constitution shall apply to a member of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The provisions of section 31 of this Constitution shall apply to a member of the",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. In the exercise of the powers conferred upon him by this section, the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "In the exercise of the powers conferred upon him by this section, the",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec33",
+      "text": "33. President and Vice-President",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "33",
+        "title": "President and Vice-President",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. When the Senate first meets after any general election and before it proceeds to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "When the Senate first meets after any general election and before it proceeds to",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Senate shall not elect a Senator who is a Minister or Parliamentary",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Senate shall not elect a Senator who is a Minister or Parliamentary",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A person shall vacate the office of President or Vice-President-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A person shall vacate the office of President or Vice-President-",
+        "page": 30
+      }
+    },
+    {
+      "id": "const-1981-sec34",
+      "text": "34. Attendance of Attorney-General at proceedings of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "34",
+        "title": "Attendance of Attorney-General at proceedings of",
+        "page": 31
+      }
+    },
+    {
+      "id": "const-1981-sec35",
+      "text": "35. Attendance at proceedings of Senate of Ministers who",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "35",
+        "title": "Attendance at proceedings of Senate of Ministers who",
+        "page": 31
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The President, Vice-President or other member presiding in the Senate may",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The President, Vice-President or other member presiding in the Senate may",
+        "page": 31
+      }
+    },
+    {
+      "id": "const-1981-sec36",
+      "text": "36. Composition of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "36",
+        "title": "Composition of the House",
+        "page": 31
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of this section, the House shall consist of a number of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of this section, the House shall consist of a number of",
+        "page": 31
+      }
+    },
+    {
+      "id": "const-1981-sec37",
+      "text": "37. Attendance at proceedings of the House of Ministers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "37",
+        "title": "Attendance at proceedings of the House of Ministers",
+        "page": 32
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Speaker, Deputy Speaker or other member presiding in the House may",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Speaker, Deputy Speaker or other member presiding in the House may",
+        "page": 32
+      }
+    },
+    {
+      "id": "const-1981-sec38",
+      "text": "38. Qualifications for election as a member of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "38",
+        "title": "Qualifications for election as a member of the House",
+        "page": 32
+      }
+    },
+    {
+      "id": "const-1981-sec39",
+      "text": "39. Disqualifications from election as a member of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "39",
+        "title": "Disqualifications from election as a member of the",
+        "page": 32
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Without prejudice to the provisions of subsection (1)(g) of this section,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Without prejudice to the provisions of subsection (1)(g) of this section,",
+        "page": 33
+      }
+    },
+    {
+      "id": "const-1981-sec40",
+      "text": "40. Election of members of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "40",
+        "title": "Election of members of the House",
+        "page": 34
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Every Commonwealth citizen of the age of eighteen years or upwards who",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Every Commonwealth citizen of the age of eighteen years or upwards who",
+        "page": 34
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Every person who is registered as a voter in pursuance of subsection (2) of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Every person who is registered as a voter in pursuance of subsection (2) of this",
+        "page": 34
+      }
+    },
+    {
+      "id": "const-1981-sec41",
+      "text": "41. Tenure of seats of members of the House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "41",
+        "title": "Tenure of seats of members of the House",
+        "page": 34
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Every member of the House shall vacate his seat in the House-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Every member of the House shall vacate his seat in the House-",
+        "page": 34
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Where an elected member of the House vacates his seat in the House pursuant",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Where an elected member of the House vacates his seat in the House pursuant",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec42",
+      "text": "42. Speaker and Deputy Speaker",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "42",
+        "title": "Speaker and Deputy Speaker",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. When the House first meets after any general election and before it proceeds to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "When the House first meets after any general election and before it proceeds to",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Speaker may be elected either from among the members of the House or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Speaker may be elected either from among the members of the House or",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. The House shall not elect a member who is a Minister or Parliamentary",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "The House shall not elect a member who is a Minister or Parliamentary",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. A person shall vacate the office of Speaker-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "A person shall vacate the office of Speaker-",
+        "page": 35
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. A person shall vacate the office of Deputy Speaker-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "A person shall vacate the office of Deputy Speaker-",
+        "page": 36
+      }
+    },
+    {
+      "id": "const-1981-sec43",
+      "text": "43. Clerks to Houses of Parliament and their staffs",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "43",
+        "title": "Clerks to Houses of Parliament and their staffs",
+        "page": 36
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Clerk to the Senate and a Clerk to the House but the two offices",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Clerk to the Senate and a Clerk to the House but the two offices",
+        "page": 36
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provisions of any law enacted by Parliament, the office of Clerk of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provisions of any law enacted by Parliament, the office of Clerk of",
+        "page": 36
+      }
+    },
+    {
+      "id": "const-1981-sec44",
+      "text": "44. Determination of questions of membership",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "44",
+        "title": "Determination of questions of membership",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The High Court shall have jurisdiction to hear and determine any question",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The High Court shall have jurisdiction to hear and determine any question",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Any application to the High Court for the determination of any question under",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Any application to the High Court for the determination of any question under",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. An application to the High Court for the determination of any question under",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "An application to the High Court for the determination of any question under",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. An appeal shall lie as of right to the Court of Appeal from any final decision of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "An appeal shall lie as of right to the Court of Appeal from any final decision of",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. The circumstances and manner in which and the imposition of conditions upon",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "The circumstances and manner in which and the imposition of conditions upon",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. In the exercise of his functions under this section the Attorney-General shall not",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "In the exercise of his functions under this section the Attorney-General shall not",
+        "page": 37
+      }
+    },
+    {
+      "id": "const-1981-sec45",
+      "text": "45. Unqualified persons sitting or voting",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "45",
+        "title": "Unqualified persons sitting or voting",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Any prosecution for an offence under this section shall be instituted in the High",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Any prosecution for an offence under this section shall be instituted in the High",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec46",
+      "text": "46. Power to make laws",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "46",
+        "title": "Power to make laws",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec47",
+      "text": "47. Alteration of this Constitution and Supreme Court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "47",
+        "title": "Alteration of this Constitution and Supreme Court",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. An amendment made by the Senate to such a bill as is referred to in subsection",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "An amendment made by the Senate to such a bill as is referred to in subsection",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A bill to alter this section, schedule 1 to this Constitution or any of the provisions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A bill to alter this section, schedule 1 to this Constitution or any of the provisions",
+        "page": 38
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Every person who, at the time when the referendum is held, would be entitled to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Every person who, at the time when the referendum is held, would be entitled to",
+        "page": 39
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. The conduct of any referendum for the purposes of subsection (5) of this section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "The conduct of any referendum for the purposes of subsection (5) of this section",
+        "page": 39
+      }
+    },
+    {
+      "id": "const-1981-sec48",
+      "text": "48. Oath of allegiance by members of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "48",
+        "title": "Oath of allegiance by members of Parliament",
+        "page": 39
+      }
+    },
+    {
+      "id": "const-1981-sec49",
+      "text": "49. Presiding in Senate and House",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "49",
+        "title": "Presiding in Senate and House",
+        "page": 39
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Speaker, or in his absence, the Deputy Speaker, or if they are both absent, a",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Speaker, or in his absence, the Deputy Speaker, or if they are both absent, a",
+        "page": 39
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Save as otherwise provided in this Constitution, any question proposed for",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Save as otherwise provided in this Constitution, any question proposed for",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec52",
+      "text": "52. Mode of exercising legislative power",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "52",
+        "title": "Mode of exercising legislative power",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The power of Parliament to make laws shall be exercised by bills passed by the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The power of Parliament to make laws shall be exercised by bills passed by the",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. When a bill is presented to the Governor-General for assent in accordance with",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "When a bill is presented to the Governor-General for assent in accordance with",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. When the Governor-General assents to a bill that has been submitted to him in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "When the Governor-General assents to a bill that has been submitted to him in",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec53",
+      "text": "53. Restrictions with regard to certain financial measures",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "53",
+        "title": "Restrictions with regard to certain financial measures",
+        "page": 40
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Except on the proposal of a Minister authorised so to do by the Cabinet, neither",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Except on the proposal of a Minister authorised so to do by the Cabinet, neither",
+        "page": 41
+      }
+    },
+    {
+      "id": "const-1981-sec54",
+      "text": "54. Restrictions on powers of Senate as to money bills",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "54",
+        "title": "Restrictions on powers of Senate as to money bills",
+        "page": 41
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. There shall be endorsed on every money bill when it is sent to the Senate the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "There shall be endorsed on every money bill when it is sent to the Senate the",
+        "page": 41
+      }
+    },
+    {
+      "id": "const-1981-sec55",
+      "text": "55. Restrictions on powers of Senate as to bills other than",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "55",
+        "title": "Restrictions on powers of Senate as to bills other than",
+        "page": 41
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. This section applies to any bill other than a money bill that is passed by the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "This section applies to any bill other than a money bill that is passed by the",
+        "page": 41
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. There shall be inserted in any bill that is submitted to the Governor-General for",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "There shall be inserted in any bill that is submitted to the Governor-General for",
+        "page": 42
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. There shall be endorsed on any bill that is presented to the Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "There shall be endorsed on any bill that is presented to the Governor-General",
+        "page": 42
+      }
+    },
+    {
+      "id": "const-1981-sec56",
+      "text": "56. Provisions relating to sections 53, 54 and 55",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "56",
+        "title": "Provisions relating to sections 53, 54 and 55",
+        "page": 42
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Whenever the office of Speaker is vacant or the Speaker is for any reason unable",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Whenever the office of Speaker is vacant or the Speaker is for any reason unable",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Any certificate of the Speaker or Deputy Speaker given under section 54 or 55",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Any certificate of the Speaker or Deputy Speaker given under section 54 or 55",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec57",
+      "text": "57. Regulation of Procedure of Houses of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "57",
+        "title": "Regulation of Procedure of Houses of Parliament",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of this Constitution, each House of Parliament may",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of this Constitution, each House of Parliament may",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Each House of Parliament may act notwithstanding any vacancy in its",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Each House of Parliament may act notwithstanding any vacancy in its",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec58",
+      "text": "58. Freedom of speech in proceedings of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "58",
+        "title": "Freedom of speech in proceedings of Parliament",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Without prejudice to any provision made by Parliament relating to the powers,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Without prejudice to any provision made by Parliament relating to the powers,",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. References in this section to a member of a House of Parliament include",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "References in this section to a member of a House of Parliament include",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Where the Attorney-General or a Minister takes part in the proceedings of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Where the Attorney-General or a Minister takes part in the proceedings of the",
+        "page": 43
+      }
+    },
+    {
+      "id": "const-1981-sec59",
+      "text": "59. Sessions of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "59",
+        "title": "Sessions of Parliament",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provisions of subsection (1) of this section, not more than three",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provisions of subsection (1) of this section, not more than three",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec60",
+      "text": "60. Prorogation and dissolution of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "60",
+        "title": "Prorogation and dissolution of Parliament",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of subsection (5) of this section, the Governor-General,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of subsection (5) of this section, the Governor-General,",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provisions of subsection (3) of this section, Parliament, unless",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provisions of subsection (3) of this section, Parliament, unless",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Where between a dissolution of Parliament and the next ensuing general",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Where between a dissolution of Parliament and the next ensuing general",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The Governor-General in his discretion may dissolve Parliament if the majority",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The Governor-General in his discretion may dissolve Parliament if the majority",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec61",
+      "text": "61. General elections and appointment of Senators",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "61",
+        "title": "General elections and appointment of Senators",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. A general election of members of the House shall be held at such time within",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "A general election of members of the House shall be held at such time within",
+        "page": 44
+      }
+    },
+    {
+      "id": "const-1981-sec62",
+      "text": "62. Constituencies",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "62",
+        "title": "Constituencies",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. For the purpose of the election of members of the House, Antigua and Barbuda",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "For the purpose of the election of members of the House, Antigua and Barbuda",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Each constituency shall return one member to the House.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Each constituency shall return one member to the House.",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec63",
+      "text": "63. Constituencies Boundaries Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "63",
+        "title": "Constituencies Boundaries Commission",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. A person shall not be qualified to be appointed as a member of a Constituencies",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "A person shall not be qualified to be appointed as a member of a Constituencies",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Subject to the provisions of this section, a member of a Constituencies",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Subject to the provisions of this section, a member of a Constituencies",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A member of a Constituencies Boundaries Commission may be removed from",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A member of a Constituencies Boundaries Commission may be removed from",
+        "page": 45
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. A Constituencies Boundaries Commission may, with the consent of the Prime",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "A Constituencies Boundaries Commission may, with the consent of the Prime",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. A Constituencies Boundaries Commission may, subject to its rules of procedure,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "A Constituencies Boundaries Commission may, subject to its rules of procedure,",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. In the exercise of its functions under this Constitution, a Constituencies",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "In the exercise of its functions under this Constitution, a Constituencies",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec64",
+      "text": "64. Report by Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "64",
+        "title": "Report by Commission",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. A Constituencies Boundaries Commission shall on its appointment forthwith",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "A Constituencies Boundaries Commission shall on its appointment forthwith",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. A report by a Constituencies Boundaries Commission shall be submitted to the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "A report by a Constituencies Boundaries Commission shall be submitted to the",
+        "page": 46
+      }
+    },
+    {
+      "id": "const-1981-sec65",
+      "text": "65. Procedure upon Report",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "65",
+        "title": "Procedure upon Report",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. As soon as may be after a Constituencies Boundaries Commission has submitted",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "As soon as may be after a Constituencies Boundaries Commission has submitted",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The question of the validity of any Order by the Governor-General purporting to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The question of the validity of any Order by the Governor-General purporting to",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec66",
+      "text": "66. Establishment, appointment, functions etc. of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "66",
+        "title": "Establishment, appointment, functions etc. of",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be an officer of Parliament who shall be known as the Ombudsman",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be an officer of Parliament who shall be known as the Ombudsman",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Parliament may make provision for the functions, powers and duties of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Parliament may make provision for the functions, powers and duties of the",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The Ombudsman may be removed from office only for inability to exercise the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The Ombudsman may be removed from office only for inability to exercise the",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The Ombudsman shall be removed from office by resolutions of both Houses of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The Ombudsman shall be removed from office by resolutions of both Houses of",
+        "page": 47
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. If by both Houses of Parliament it is resolved that the question of removing the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "If by both Houses of Parliament it is resolved that the question of removing the",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. If at any time the Ombudsman is for any reason unable to exercise the functions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "If at any time the Ombudsman is for any reason unable to exercise the functions",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. The Ombudsman shall, in the exercise of his functions under this Constitution,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "The Ombudsman shall, in the exercise of his functions under this Constitution,",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec67",
+      "text": "67. Appointment, functions and removal of Supervisor of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "67",
+        "title": "Appointment, functions and removal of Supervisor of",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Governor-General shall by notice published in the Gazette appoint a",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Governor-General shall by notice published in the Gazette appoint a",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Supervisor of Elections shall have and exercise such functions, powers and",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Supervisor of Elections shall have and exercise such functions, powers and",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The Supervisor of Elections shall be removed from office by the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The Supervisor of Elections shall be removed from office by the",
+        "page": 48
+      }
+    },
+    {
+      "id": "const-1981-sec68",
+      "text": "68. Executive authority",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "68",
+        "title": "Executive authority",
+        "page": 49
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The executive authority of Antigua and Barbuda is vested in Her Majesty.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The executive authority of Antigua and Barbuda is vested in Her Majesty.",
+        "page": 49
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Nothing in this section shall prevent Parliament from conferring functions on",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Nothing in this section shall prevent Parliament from conferring functions on",
+        "page": 49
+      }
+    },
+    {
+      "id": "const-1981-sec69",
+      "text": "69. Ministers of Government",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "69",
+        "title": "Ministers of Government",
+        "page": 49
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Prime Minister of Antigua and Barbuda who shall be appointed",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Prime Minister of Antigua and Barbuda who shall be appointed",
+        "page": 49
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Subject to the provision of section 82 of this Constitution and subsection (4) of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Subject to the provision of section 82 of this Constitution and subsection (4) of",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. The Ministers other than the Prime Minister shall be such persons as the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "The Ministers other than the Prime Minister shall be such persons as the",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. satacting\u1e41ig appoidame with advice Riminishery",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "satacting\u1e41ig appoidame with advice Riminishery",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Appointments under this section shall be made by instrument under the Public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Appointments under this section shall be made by instrument under the Public",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec70",
+      "text": "70. The Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "70",
+        "title": "The Cabinet",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Cabinet for Antigua and Barbuda which shall have the general",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Cabinet for Antigua and Barbuda which shall have the general",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec71",
+      "text": "71. Allocation of portfolios",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "71",
+        "title": "Allocation of portfolios",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Governor-General, acting in accordance with the advice of the Prime",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Governor-General, acting in accordance with the advice of the Prime",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec72",
+      "text": "72. Summoning of Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "72",
+        "title": "Summoning of Cabinet",
+        "page": 50
+      }
+    },
+    {
+      "id": "const-1981-sec73",
+      "text": "73. Tenure of office of Ministers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "73",
+        "title": "Tenure of office of Ministers",
+        "page": 51
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Prime Minister shall also vacate his office-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Prime Minister shall also vacate his office-",
+        "page": 51
+      }
+    },
+    {
+      "id": "const-1981-sec74",
+      "text": "74. Performance of functions of Prime Minister during",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "74",
+        "title": "Performance of functions of Prime Minister during",
+        "page": 51
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Where the Prime Minister is absent from Antigua and Barbuda or is unable by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Where the Prime Minister is absent from Antigua and Barbuda or is unable by",
+        "page": 51
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The powers of the Governor-General under this section shall be exercised by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The powers of the Governor-General under this section shall be exercised by",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec75",
+      "text": "75. Parliamentary Secretaries",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "75",
+        "title": "Parliamentary Secretaries",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Governor-General, acting in accordance with the advice of the Prime",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Governor-General, acting in accordance with the advice of the Prime",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Where occasion arises for making an appointment under this section while",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Where occasion arises for making an appointment under this section while",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The office of a Parliamentary Secretary shall become vacant-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The office of a Parliamentary Secretary shall become vacant-",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec76",
+      "text": "76. Oaths to be taken by Ministers and Parliamentary",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "76",
+        "title": "Oaths to be taken by Ministers and Parliamentary",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec77",
+      "text": "77. Secretary to the Cabinet",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "77",
+        "title": "Secretary to the Cabinet",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Secretary to the Cabinet whose office shall be a public office.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Secretary to the Cabinet whose office shall be a public office.",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Secretary to the Cabinet, who shall have charge of the Cabinet office, shall",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Secretary to the Cabinet, who shall have charge of the Cabinet office, shall",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Secretary to the Cabinet shall, before entering upon the duties of his office,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Secretary to the Cabinet shall, before entering upon the duties of his office,",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec78",
+      "text": "78. Permanent Secretaries",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "78",
+        "title": "Permanent Secretaries",
+        "page": 52
+      }
+    },
+    {
+      "id": "const-1981-sec79",
+      "text": "79. Leader of the Opposition",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "79",
+        "title": "Leader of the Opposition",
+        "page": 53
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The powers of the Governor-General under this section shall be exercised by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The powers of the Governor-General under this section shall be exercised by",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Where the office of Leader of the Opposition is vacant, whether because there is",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Where the office of Leader of the Opposition is vacant, whether because there is",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec80",
+      "text": "80. Exercise of Governor-General's functions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "80",
+        "title": "Exercise of Governor-General's functions",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. In the exercise of his functions the Governor-General shall act in accordance",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "In the exercise of his functions the Governor-General shall act in accordance",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Nothing in subsection (1) of this section shall apply to the functions conferred",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Nothing in subsection (1) of this section shall apply to the functions conferred",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Where in the exercise of his functions the Governor-General is required to act in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Where in the exercise of his functions the Governor-General is required to act in",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Where in the exercise of his functions the Governor-General is required to act",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Where in the exercise of his functions the Governor-General is required to act",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Any reference in this Constitution to the functions of Governor-General shall be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Any reference in this Constitution to the functions of Governor-General shall be",
+        "page": 54
+      }
+    },
+    {
+      "id": "const-1981-sec81",
+      "text": "81. Governor-General to be informed concerning",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "81",
+        "title": "Governor-General to be informed concerning",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec82",
+      "text": "82. Attorney-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "82",
+        "title": "Attorney-General",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be an Attorney-General of Antigua and Barbuda who shall be the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be an Attorney-General of Antigua and Barbuda who shall be the",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Where the person holding the office of Attorney-General is a member of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Where the person holding the office of Attorney-General is a member of the",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. If the Attorney-General is not a Minister he shall vacate his office if he ceases to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "If the Attorney-General is not a Minister he shall vacate his office if he ceases to",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. If the office of the Attorney-General is vacant or the holder of the office is for",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "If the office of the Attorney-General is vacant or the holder of the office is for",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec83",
+      "text": "83. Exercise of certain powers of Governor-General",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "83",
+        "title": "Exercise of certain powers of Governor-General",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec84",
+      "text": "84. Power of pardon",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "84",
+        "title": "Power of pardon",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Governor-General may, in Her Majesty's name and on Her Majesty's behalf-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Governor-General may, in Her Majesty's name and on Her Majesty's behalf-",
+        "page": 55
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The powers of the Governor-General under subsection (1) of this section shall",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The powers of the Governor-General under subsection (1) of this section shall",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec85",
+      "text": "85. Advisory Committee on Prerogative of Mercy",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "85",
+        "title": "Advisory Committee on Prerogative of Mercy",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec86",
+      "text": "86. Functions of Advisory Committee",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "86",
+        "title": "Functions of Advisory Committee",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The Minister may consult with the Advisory Committee before tendering any",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The Minister may consult with the Advisory Committee before tendering any",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Minister shall not be obliged in any case to act in accordance with the advice",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Minister shall not be obliged in any case to act in accordance with the advice",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. The Advisory Committee may regulate its own procedure.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "The Advisory Committee may regulate its own procedure.",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec87",
+      "text": "87. Appointment and removal of Director of Public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "87",
+        "title": "Appointment and removal of Director of Public",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Director of Public Prosecutions whose office shall be a public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Director of Public Prosecutions whose office shall be a public",
+        "page": 56
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Subject to the provisions of subsection (8) of this section, the Director of Public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Subject to the provisions of subsection (8) of this section, the Director of Public",
+        "page": 57
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. If the chairman of the Judicial and Legal Services Commission represents to the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "If the chairman of the Judicial and Legal Services Commission represents to the",
+        "page": 57
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. If the question of removing the Director of Public Prosecutions has been",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "If the question of removing the Director of Public Prosecutions has been",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. The prescribed age for the purposes of subsection (6) of this section is the age of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "The prescribed age for the purposes of subsection (6) of this section is the age of",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec88",
+      "text": "88. Powers and functions of Director of Public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "88",
+        "title": "Powers and functions of Director of Public",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Director of Public Prosecutions shall, subject to section 89 of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Director of Public Prosecutions shall, subject to section 89 of this",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to section 89 of this Constitution, the powers conferred on the Director",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to section 89 of this Constitution, the powers conferred on the Director",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. The functions of the Director of Public Prosecutions under subsection (1) of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "The functions of the Director of Public Prosecutions under subsection (1) of this",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. Subject to section 89 of this Constitution, in the exercise of the functions vested",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "Subject to section 89 of this Constitution, in the exercise of the functions vested",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec89",
+      "text": "89. Directions to Director of Public Prosecutions",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "89",
+        "title": "Directions to Director of Public Prosecutions",
+        "page": 58
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. This section applies to-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "This section applies to-",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec90",
+      "text": "90. Consolidated Fund",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "90",
+        "title": "Consolidated Fund",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec91",
+      "text": "91. Withdrawals from Consolidated Fund or other public",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "91",
+        "title": "Withdrawals from Consolidated Fund or other public",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. No monies shall be withdrawn from the Consolidated Fund except-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "No monies shall be withdrawn from the Consolidated Fund except-",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The investment of monies forming part of the Consolidated Fund shall be made",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The investment of monies forming part of the Consolidated Fund shall be made",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Notwithstanding the provision of subsection (1) of this section, provision may be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Notwithstanding the provision of subsection (1) of this section, provision may be",
+        "page": 59
+      }
+    },
+    {
+      "id": "const-1981-sec92",
+      "text": "92. Authorisation of Expenditure from Consolidated Fund",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "92",
+        "title": "Authorisation of Expenditure from Consolidated Fund",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The Minister for the time being responsible for finance shall cause to be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The Minister for the time being responsible for finance shall cause to be",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. When the estimates of expenditure (other than expenditure charged upon the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "When the estimates of expenditure (other than expenditure charged upon the",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. If in respect of any financial year it is found-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "If in respect of any financial year it is found-",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec93",
+      "text": "93. Authorisation of expenditure in advance of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "93",
+        "title": "Authorisation of expenditure in advance of",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec94",
+      "text": "94. Contingencies Fund",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "94",
+        "title": "Contingencies Fund",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be such provision as may be made by Parliament for the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be such provision as may be made by Parliament for the",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Where any advance is made from the Contingencies Fund, a supplementary",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Where any advance is made from the Contingencies Fund, a supplementary",
+        "page": 60
+      }
+    },
+    {
+      "id": "const-1981-sec95",
+      "text": "95. Remuneration of certain officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "95",
+        "title": "Remuneration of certain officers",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be paid to the holders of the offices to which this section applies such",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be paid to the holders of the offices to which this section applies such",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The salary prescribed in pursuance of this section in respect of the holder of any",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The salary prescribed in pursuance of this section in respect of the holder of any",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. This section applies to the offices of the Governor-General, member of the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "This section applies to the offices of the Governor-General, member of the",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Nothing in this section shall be construed as prejudicing the provisions of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Nothing in this section shall be construed as prejudicing the provisions of",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec96",
+      "text": "96. Public debt",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "96",
+        "title": "Public debt",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. All debt charges for which Antigua and Barbuda is liable shall be a charge on the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "All debt charges for which Antigua and Barbuda is liable shall be a charge on the",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec97",
+      "text": "97. Audit of public accounts etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "97",
+        "title": "Audit of public accounts etc",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Director of Audit whose office shall be a public office.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Director of Audit whose office shall be a public office.",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Director of Audit shall have power to carry out audits of the accounts,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Director of Audit shall have power to carry out audits of the accounts,",
+        "page": 61
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The Director of Audit shall submit every report made by him in pursuance of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The Director of Audit shall submit every report made by him in pursuance of this",
+        "page": 62
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. The Director of Audit shall exercise such other functions in relation to the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "The Director of Audit shall exercise such other functions in relation to the",
+        "page": 62
+      }
+    },
+    {
+      "id": "const-1981-sec98",
+      "text": "98. Public Accounts Committee",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "98",
+        "title": "Public Accounts Committee",
+        "page": 62
+      }
+    },
+    {
+      "id": "const-1981-sec99",
+      "text": "99. Establishment and composition of Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "99",
+        "title": "Establishment and composition of Commission",
+        "page": 62
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Public Service Commission for Antigua and Barbuda",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Public Service Commission for Antigua and Barbuda",
+        "page": 62
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. A member of the Commission shall be removed from office by the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "A member of the Commission shall be removed from office by the",
+        "page": 63
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. If the Prime Minister represents to the Governor-General that the question of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "If the Prime Minister represents to the Governor-General that the question of",
+        "page": 63
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. If at any time any member of the Commission is for any reason unable to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "If at any time any member of the Commission is for any reason unable to",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. A member of the Commission shall not enter upon the duties of his office until",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "A member of the Commission shall not enter upon the duties of his office until",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. The Commission shall, in the exercise of its functions under this Constitution,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "The Commission shall, in the exercise of its functions under this Constitution,",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec12",
+      "text": "12. The Commission may, by regulation or otherwise, regulate its own procedure.",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "12",
+        "title": "The Commission may, by regulation or otherwise, regulate its own procedure.",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec13",
+      "text": "13. The Commission may, with the consent of the Prime Minister, confer powers or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "13",
+        "title": "The Commission may, with the consent of the Prime Minister, confer powers or",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec14",
+      "text": "14. The Commission may, subject to its rules of procedure, act notwithstanding any",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "14",
+        "title": "The Commission may, subject to its rules of procedure, act notwithstanding any",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec15",
+      "text": "15. The Commission shall make an annual report on its activities to the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "15",
+        "title": "The Commission shall make an annual report on its activities to the",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec100",
+      "text": "100. Appointment etc. of public officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "100",
+        "title": "Appointment etc. of public officers",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The provisions of this section shall not apply in relation to the following offices,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The provisions of this section shall not apply in relation to the following offices,",
+        "page": 64
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The Public Service Commission shall not remove or inflict any punishment on a",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The Public Service Commission shall not remove or inflict any punishment on a",
+        "page": 65
+      }
+    },
+    {
+      "id": "const-1981-sec101",
+      "text": "101. Appointment etc. of permanent secretaries and",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "101",
+        "title": "Appointment etc. of permanent secretaries and",
+        "page": 65
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. This section applies to the offices of Secretary to the Cabinet, Permanent",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "This section applies to the offices of Secretary to the Cabinet, Permanent",
+        "page": 65
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The power to appoint persons to hold or to act in offices to which this section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The power to appoint persons to hold or to act in offices to which this section",
+        "page": 65
+      }
+    },
+    {
+      "id": "const-1981-sec102",
+      "text": "102. The Director of Audit",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "102",
+        "title": "The Director of Audit",
+        "page": 66
+      }
+    },
+    {
+      "id": "const-1981-sec103",
+      "text": "103. Appointment etc. of magistrates, registrars and legal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "103",
+        "title": "Appointment etc. of magistrates, registrars and legal",
+        "page": 66
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. This section applies to the offices of magistrates and registrars of the High Court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "This section applies to the offices of magistrates and registrars of the High Court",
+        "page": 66
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The power to appoint persons to hold or act in offices to which this section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The power to appoint persons to hold or act in offices to which this section",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec104",
+      "text": "104. Establishment and composition of Commission",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "104",
+        "title": "Establishment and composition of Commission",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Police Service Commission for Antigua and Barbuda which shall",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Police Service Commission for Antigua and Barbuda which shall",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The provisions of subsections (2) to (15) inclusive of section 99 of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The provisions of subsections (2) to (15) inclusive of section 99 of this",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec105",
+      "text": "105. Appointment etc. of Police Officers",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "105",
+        "title": "Appointment etc. of Police Officers",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provision of this section, the power to appoint persons to hold or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provision of this section, the power to appoint persons to hold or",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Before the Police Service Commission, or any person or authority to whom",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Before the Police Service Commission, or any person or authority to whom",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Before the Police Service Commission makes an appointment to the office of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Before the Police Service Commission makes an appointment to the office of",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The power to appoint persons to hold or act in offices in the Police Force below",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The power to appoint persons to hold or act in offices in the Police Force below",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The Commissioner of Police may, by directions given in such manner as he thinks",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The Commissioner of Police may, by directions given in such manner as he thinks",
+        "page": 67
+      }
+    },
+    {
+      "id": "const-1981-sec106",
+      "text": "106. Constitution of Board, etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "106",
+        "title": "Constitution of Board, etc",
+        "page": 68
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Public Service Board of Appeal for Antigua and Barbuda (in this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Public Service Board of Appeal for Antigua and Barbuda (in this",
+        "page": 68
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The provisions of subsections (2) to (8) inclusive of section 99 of this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The provisions of subsections (2) to (8) inclusive of section 99 of this",
+        "page": 68
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. If at any time any member of the Board is for any reason unable to exercise the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "If at any time any member of the Board is for any reason unable to exercise the",
+        "page": 68
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. In this section-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "In this section-",
+        "page": 69
+      }
+    },
+    {
+      "id": "const-1981-sec107",
+      "text": "107. Appeals in disciplinary cases",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "107",
+        "title": "Appeals in disciplinary cases",
+        "page": 69
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. This section applies to-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "This section applies to-",
+        "page": 69
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provisions of this section an appeal shall lie to the Board from any",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provisions of this section an appeal shall lie to the Board from any",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec108",
+      "text": "108. Powers and procedure of Board",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "108",
+        "title": "Powers and procedure of Board",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Upon an appeal under section 107 of this Constitution or any law enacted in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Upon an appeal under section 107 of this Constitution or any law enacted in",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Every decision of the Board shall require the concurrence of a majority of all the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Every decision of the Board shall require the concurrence of a majority of all the",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Subject to the provisions of subsection (2) of this section, the Board may by",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Subject to the provisions of subsection (2) of this section, the Board may by",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. Regulations made under this section may, with the consent of the Prime",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "Regulations made under this section may, with the consent of the Prime",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. The Board may, subject to the provisions of this section and to its rules of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "The Board may, subject to the provisions of this section and to its rules of",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec109",
+      "text": "109. Pensions laws and protection of pensions rights",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "109",
+        "title": "Pensions laws and protection of pensions rights",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. The law to be applied with respect to any pensions benefits that were granted to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "The law to be applied with respect to any pensions benefits that were granted to",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The law to be applied with respect to any pensions benefits (not being benefits",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The law to be applied with respect to any pensions benefits (not being benefits",
+        "page": 70
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. Where a person is entitled to exercise an option as to which of two or more laws",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "Where a person is entitled to exercise an option as to which of two or more laws",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. References in this section to the law with respect to pensions benefits include",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "References in this section to the law with respect to pensions benefits include",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec110",
+      "text": "110. Power to withhold pensions etc",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "110",
+        "title": "Power to withhold pensions etc",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Where under any law any person or authority has a discretion-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Where under any law any person or authority has a discretion-",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Where the amount of any pensions benefits that may be granted to any person",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Where the amount of any pensions benefits that may be granted to any person",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. The Public Service Commission shall not concur under subsection (1) or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "The Public Service Commission shall not concur under subsection (1) or",
+        "page": 71
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. In this section \"pensions benefits\" means any pensions, compensations,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "In this section \"pensions benefits\" means any pensions, compensations,",
+        "page": 72
+      }
+    },
+    {
+      "id": "const-1981-sec111",
+      "text": "111. Belonger status",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "111",
+        "title": "Belonger status",
+        "page": 72
+      }
+    },
+    {
+      "id": "const-1981-sec112",
+      "text": "112. Persons who automatically become citizens at",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "112",
+        "title": "Persons who automatically become citizens at",
+        "page": 72
+      }
+    },
+    {
+      "id": "const-1981-sec113",
+      "text": "113. Persons who automatically become citizens after",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "113",
+        "title": "Persons who automatically become citizens after",
+        "page": 73
+      }
+    },
+    {
+      "id": "const-1981-sec114",
+      "text": "114. Persons entitled to citizenship by registration after",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "114",
+        "title": "Persons entitled to citizenship by registration after",
+        "page": 73
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of paragraph (e) of section 112 and of section 117 of",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of paragraph (e) of section 112 and of section 117 of",
+        "page": 73
+      }
+    },
+    {
+      "id": "const-1981-sec115",
+      "text": "115. Dual citizenship",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "115",
+        "title": "Dual citizenship",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. A person, who on 1st November 1981, is a citizen or entitled to be registered as",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "A person, who on 1st November 1981, is a citizen or entitled to be registered as",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. A person referred to in subsection (1) of this section shall not-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "A person referred to in subsection (1) of this section shall not-",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec116",
+      "text": "116. Powers of Parliament",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "116",
+        "title": "Powers of Parliament",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Without prejudice to and subject to the provisions of sections 111, 112, 113,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Without prejudice to and subject to the provisions of sections 111, 112, 113,",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. An application for registration under this section may be refused by the Minister",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "An application for registration under this section may be refused by the Minister",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec3",
+      "text": "3. There shall be such provision as may be made by Parliament-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "3",
+        "title": "There shall be such provision as may be made by Parliament-",
+        "page": 75
+      }
+    },
+    {
+      "id": "const-1981-sec117",
+      "text": "117. Oath of allegiance",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "117",
+        "title": "Oath of allegiance",
+        "page": 76
+      }
+    },
+    {
+      "id": "const-1981-sec118",
+      "text": "118. Interpretation",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "118",
+        "title": "Interpretation",
+        "page": 76
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Any reference in this Chapter to the national status of the father of a person at",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Any reference in this Chapter to the national status of the father of a person at",
+        "page": 76
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. In this Chapter-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "In this Chapter-",
+        "page": 76
+      }
+    },
+    {
+      "id": "const-1981-sec119",
+      "text": "119. Original jurisdiction of High Court in constitutional",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "119",
+        "title": "Original jurisdiction of High Court in constitutional",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Subject to the provisions of sections 25(2), 47(8)(b), 56(4), 65(5), 123(7)(b) and",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Subject to the provisions of sections 25(2), 47(8)(b), 56(4), 65(5), 123(7)(b) and",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. The High Court shall have jurisdiction on an application made under this section",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "The High Court shall have jurisdiction on an application made under this section",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec4",
+      "text": "4. The Chief Justice may make provision, or authorise the making of provision, with",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "4",
+        "title": "The Chief Justice may make provision, or authorise the making of provision, with",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. The rights conferred on a person by this section to apply for a declaration and",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "The rights conferred on a person by this section to apply for a declaration and",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec7",
+      "text": "7. Nothing in this section shall confer jurisdiction on the High Court to hear or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "7",
+        "title": "Nothing in this section shall confer jurisdiction on the High Court to hear or",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec120",
+      "text": "120. Reference of constitutional questions to High Court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "120",
+        "title": "Reference of constitutional questions to High Court",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Where any question is referred to the High Court in pursuance of this section,",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Where any question is referred to the High Court in pursuance of this section,",
+        "page": 77
+      }
+    },
+    {
+      "id": "const-1981-sec121",
+      "text": "121. Appeals to Court of Appeal",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "121",
+        "title": "Appeals to Court of Appeal",
+        "page": 78
+      }
+    },
+    {
+      "id": "const-1981-sec122",
+      "text": "122. Appeals to Her Majesty in Council",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "122",
+        "title": "Appeals to Her Majesty in Council",
+        "page": 78
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. An appeal shall lie from decisions of the Court of Appeal to Her Majesty in",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "An appeal shall lie from decisions of the Court of Appeal to Her Majesty in",
+        "page": 78
+      }
+    },
+    {
+      "id": "const-1981-sec2",
+      "text": "2. Subject to the provision of section 44(8) of this Constitution, an appeal shall lie",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "2",
+        "title": "Subject to the provision of section 44(8) of this Constitution, an appeal shall lie",
+        "page": 78
+      }
+    },
+    {
+      "id": "const-1981-sec123",
+      "text": "123. Local government",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "123",
+        "title": "Local government",
+        "page": 79
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. There shall be a Council for Barbuda which shall be the principal organ of local",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "There shall be a Council for Barbuda which shall be the principal organ of local",
+        "page": 79
+      }
+    },
+    {
+      "id": "const-1981-sec5",
+      "text": "5. An amendment made by the Senate to such a bill as is referred to in subsection",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "5",
+        "title": "An amendment made by the Senate to such a bill as is referred to in subsection",
+        "page": 79
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. For the purpose of section 55(4) of this Constitution, an amendment of a bill to",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "For the purpose of section 55(4) of this Constitution, an amendment of a bill to",
+        "page": 79
+      }
+    },
+    {
+      "id": "const-1981-sec124",
+      "text": "124. Certain questions not to be enquired into in any court",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "124",
+        "title": "Certain questions not to be enquired into in any court",
+        "page": 79
+      }
+    },
+    {
+      "id": "const-1981-sec125",
+      "text": "125. Resignations",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "125",
+        "title": "Resignations",
+        "page": 80
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. Any person who is appointed or elected to any office established by this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "Any person who is appointed or elected to any office established by this",
+        "page": 80
+      }
+    },
+    {
+      "id": "const-1981-sec126",
+      "text": "126. Reappointments and concurrent appointments",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "126",
+        "title": "Reappointments and concurrent appointments",
+        "page": 80
+      }
+    },
+    {
+      "id": "const-1981-sec127",
+      "text": "127. Interpretation",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "127",
+        "title": "Interpretation",
+        "page": 80
+      }
+    },
+    {
+      "id": "const-1981-sec1",
+      "text": "1. In this Constitution, unless the context otherwise requires-",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "1",
+        "title": "In this Constitution, unless the context otherwise requires-",
+        "page": 80
+      }
+    },
+    {
+      "id": "const-1981-sec6",
+      "text": "6. Except in the case where this Constitution provides for the holder of any office",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "6",
+        "title": "Except in the case where this Constitution provides for the holder of any office",
+        "page": 82
+      }
+    },
+    {
+      "id": "const-1981-sec8",
+      "text": "8. Any provision in this Constitution that vests in any person or authority the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "8",
+        "title": "Any provision in this Constitution that vests in any person or authority the",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec9",
+      "text": "9. Where this Constitution vests in any person or authority the power to appoint",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "9",
+        "title": "Where this Constitution vests in any person or authority the power to appoint",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec10",
+      "text": "10. No provision of this Constitution that any person or authority shall not be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "10",
+        "title": "No provision of this Constitution that any person or authority shall not be",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec11",
+      "text": "11. Without prejudice to the provisions of section 14 of the Interpretation Act 1978",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "11",
+        "title": "Without prejudice to the provisions of section 14 of the Interpretation Act 1978",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec12",
+      "text": "12. Subject to the provisions of subsection 3(a) of this section any reference in this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "12",
+        "title": "Subject to the provisions of subsection 3(a) of this section any reference in this",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec13",
+      "text": "13. In this Constitution references to altering this Constitution or any other law, or",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "13",
+        "title": "In this Constitution references to altering this Constitution or any other law, or",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec14",
+      "text": "14. In this Constitution, any reference to a time when Her Majesty is at war shall be",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "14",
+        "title": "In this Constitution, any reference to a time when Her Majesty is at war shall be",
+        "page": 83
+      }
+    },
+    {
+      "id": "const-1981-sec15",
+      "text": "15. In relation to all matters previous to 1st November 1981 references in this",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "15",
+        "title": "In relation to all matters previous to 1st November 1981 references in this",
+        "page": 84
+      }
+    },
+    {
+      "id": "const-1981-sec16",
+      "text": "16. The Interpretation Act 1978 shall apply, with the necessary adaptations, for the",
+      "metadata": {
+        "source": "Constitution 1981",
+        "section": "16",
+        "title": "The Interpretation Act 1978 shall apply, with the necessary adaptations, for the",
+        "page": 84
+      }
+    }
+  ],
+  "total_chunks": 532,
+  "document": "Antigua and Barbuda Constitution 1981"
+}

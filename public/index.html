@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.B.C.R.E. Constitutional Concierge</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .flag {
+            font-size: 64px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .pricing-card {
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        
+        .pricing-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .pricing-card.featured {
+            border: 3px solid #ffd700;
+            position: relative;
+        }
+        
+        .pricing-card.featured::before {
+            content: "MOST POPULAR";
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #ffd700;
+            color: #333;
+            padding: 4px 16px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        
+        .tier-name {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .tier-price {
+            font-size: 36px;
+            font-weight: bold;
+            color: #2a5298;
+            margin-bottom: 5px;
+        }
+        
+        .tier-period {
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .features {
+            list-style: none;
+            margin-bottom: 25px;
+        }
+        
+        .features li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .features li::before {
+            content: "✓ ";
+            color: #2a5298;
+            font-weight: bold;
+        }
+        
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #2a5298 0%, #1e3c72 100%);
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: opacity 0.3s;
+        }
+        
+        .btn:hover {
+            opacity: 0.9;
+        }
+        
+        .telegram-section {
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        
+        .telegram-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            opacity: 0.8;
+        }
+        
+        footer a {
+            color: #ffd700;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="flag">🇦🇬</div>
+            <h1>A.B.C.R.E. Constitutional Concierge</h1>
+            <p class="subtitle">AI-Powered Constitutional Guide for Antigua and Barbuda</p>
+        </header>
+
+        <div class="pricing-grid">
+            <div class="pricing-card">
+                <div class="tier-name">🇦🇬 Citizen Basic</div>
+                <div class="tier-price">$4.99</div>
+                <div class="tier-period">per month</div>
+                <ul class="features">
+                    <li>Unlimited Constitution searches</li>
+                    <li>Section-by-section lookup</li>
+                    <li>Fundamental rights guide</li>
+                    <li>Government structure info</li>
+                    <li>Telegram bot access</li>
+                </ul>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+
+            <div class="pricing-card featured">
+                <div class="tier-name">🇦🇬 Citizen Pro</div>
+                <div class="tier-price">$14.99</div>
+                <div class="tier-period">per month</div>
+                <ul class="features">
+                    <li>Everything in Basic</li>
+                    <li>Plain English translations</li>
+                    <li>Historical context & Hansard</li>
+                    <li>Reform tracking & alerts</li>
+                    <li>Citation generator</li>
+                    <li>Web widget access</li>
+                    <li>African-centered analysis</li>
+                </ul>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+
+            <div class="pricing-card">
+                <div class="tier-name">🏛️ Organization</div>
+                <div class="tier-price">$49.99</div>
+                <div class="tier-period">per month</div>
+                <ul class="features">
+                    <li>Everything in Pro</li>
+                    <li>5 team members</li>
+                    <li>WhatsApp integration</li>
+                    <li>Priority support</li>
+                    <li>Custom alerts</li>
+                    <li>Downloadable reports</li>
+                </ul>
+                <a href="#" class="btn">Contact Us</a>
+            </div>
+
+            <div class="pricing-card">
+                <div class="tier-name">🏢 Institution</div>
+                <div class="tier-price">$149.99</div>
+                <div class="tier-period">per month</div>
+                <ul class="features">
+                    <li>Everything in Organization</li>
+                    <li>Unlimited team members</li>
+                    <li>API access</li>
+                    <li>White-label option</li>
+                    <li>Dedicated support</li>
+                    <li>Custom training</li>
+                </ul>
+                <a href="#" class="btn">Contact Us</a>
+            </div>
+        </div>
+
+        <div class="telegram-section">
+            <div class="telegram-icon">📱</div>
+            <h2>Try It Free on Telegram</h2>
+            <p style="margin: 20px 0;">Get 3 free queries per day. No credit card required.</p>
+            <a href="https://t.me/ABCRE_Constitution_Bot" class="btn" style="max-width: 300px; margin: 0 auto;">
+                Start on Telegram
+            </a>
+        </div>
+
+        <footer>
+            <p>Built for <a href="https://myabcre.org">A.B.C.R.E.</a> by Hemisphere Claw Agency</p>
+            <p style="margin-top: 10px;">40% of subscriptions support constitutional reform in Antigua and Barbuda</p>
+        </footer>
+    </div>
+</body>
+</html>
