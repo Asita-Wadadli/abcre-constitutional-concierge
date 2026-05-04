@@ -14,7 +14,7 @@ const constitutionData = JSON.parse(
   fs.readFileSync(path.join(__dirname, 'data/ABCRE-constitution-chunks.json'), 'utf8')
 );
 
-// Initialize Telegram Bot in webhook mode
+// Initialize Telegram Bot in webhook mode (for Vercel serverless deployment)
 const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { webHook: true });
 
 // Middleware
@@ -54,14 +54,35 @@ app.post('/webhook/telegram', (req, res) => {
   res.sendStatus(200);
 });
 
+// Payment endpoints
+const { createCheckoutSession, handleWebhook, PRICING_TIERS } = require('./src/payments');
+
+// Create checkout session
+app.post('/api/create-checkout-session', async (req, res) => {
+  try {
+    const { tier, userId, telegramId } = req.body;
+    const session = await createCheckoutSession(tier, userId, telegramId);
+    res.json({ url: session.url });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Get pricing information
+app.get('/api/pricing', (req, res) => {
+  res.json(PRICING_TIERS);
+});
+
 // Stripe webhook for subscriptions
-app.post('/webhook/stripe', express.raw({type: 'application/json'}), (req, res) => {
-  const sig = req.headers['stripe-signature'];
-  
-  // TODO: Verify webhook signature
-  // TODO: Handle subscription events
-  
-  res.json({received: true});
+app.post('/webhook/stripe', express.raw({type: 'application/json'}), async (req, res) => {
+  try {
+    const sig = req.headers['stripe-signature'];
+    await handleWebhook(req.body, sig);
+    res.json({received: true});
+  } catch (error) {
+    console.error('Webhook error:', error);
+    res.status(400).send(`Webhook Error: ${error.message}`);
+  }
 });
 
 // Bot command handlers
