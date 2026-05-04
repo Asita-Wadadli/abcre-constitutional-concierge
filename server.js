@@ -289,6 +289,39 @@ bot.onText(/\/help/, (msg) => {
   bot.sendMessage(chatId, response, { parse_mode: 'Markdown' });
 });
 
+// Admin command - Grant premium access (for testing)
+bot.onText(/\/admin-premium/, (msg) => {
+  const chatId = msg.chat.id;
+  const userId = msg.from.id;
+  
+  // Check if it's you (Vance) - your Telegram ID
+  if (userId !== 8131033937) {
+    bot.sendMessage(chatId, '⛔ This command is restricted.');
+    return;
+  }
+  
+  // Grant premium access
+  if (!users.has(userId)) {
+    users.set(userId, {
+      id: userId,
+      tier: 'pro',
+      queriesToday: 0,
+      lastQueryDate: new Date().toDateString()
+    });
+  } else {
+    const user = users.get(userId);
+    user.tier = 'pro';
+  }
+  
+  bot.sendMessage(chatId, 
+    '✅ **Premium Access Granted!**\n\n' +
+    'You now have unlimited queries and full access to all features.\n\n' +
+    'Tier: 🇦🇬 Citizen Pro\n' +
+    'Status: Active\n\n' +
+    'Try: /search or /section commands'
+  );
+});
+
 // Helper functions
 function searchConstitution(term) {
   return constitutionData.chunks.filter(chunk => {
