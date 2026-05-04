@@ -14,8 +14,8 @@ const constitutionData = JSON.parse(
   fs.readFileSync(path.join(__dirname, 'data/ABCRE-constitution-chunks.json'), 'utf8')
 );
 
-// Initialize Telegram Bot in webhook mode (for Vercel serverless deployment)
-const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { webHook: true });
+// Initialize Telegram Bot without polling or auto-webhook (manual webhook handling)
+const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { polling: false });
 
 // Middleware
 app.use(cors());
