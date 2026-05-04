@@ -174,7 +174,7 @@ I'm your AI guide to the Constitution of Antigua and Barbuda.
         `💎 *Premium: Plain English explanations*`
 
       this.bot.sendMessage(chatId, response, { parse_mode: 'Markdown' });
-      this.incrementQueryCount(userId);
+      // Note: /rights is an informational command, doesn't count against query limit
     });
 
     // Government command
