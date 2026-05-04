@@ -300,7 +300,7 @@ bot.onText(/\/admin-premium/, (msg) => {
     return;
   }
   
-  // Grant premium access
+  // Grant premium access and reset query count
   if (!users.has(userId)) {
     users.set(userId, {
       id: userId,
@@ -311,6 +311,8 @@ bot.onText(/\/admin-premium/, (msg) => {
   } else {
     const user = users.get(userId);
     user.tier = 'pro';
+    user.queriesToday = 0; // Reset query count
+    user.lastQueryDate = new Date().toDateString();
   }
   
   bot.sendMessage(chatId, 
