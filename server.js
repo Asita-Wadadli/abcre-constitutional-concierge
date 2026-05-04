@@ -345,4 +345,4 @@ app.listen(PORT, () => {
   console.log('  🏢 Institution: $149.99/mo');
   console.log('');
   console.log('Revenue Share: 40% to ABCRE');
-});
+});// Deployment timestamp: Mon May  4 23:11:56 UTC 2026
