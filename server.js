@@ -200,16 +200,7 @@ bot.onText(/\/section (.+)/, (msg, match) => {
 
 bot.onText(/\/rights/, (msg) => {
   const chatId = msg.chat.id;
-  const userId = msg.from.id;
-
-  if (!checkQueryLimit(userId)) {
-    bot.sendMessage(chatId, 
-      `⚠️ You've reached your daily limit (3 queries).\n\n` +
-      `Upgrade to Premium for unlimited access.`
-    );
-    return;
-  }
-
+  
   const response = `⚖️ **Your Fundamental Rights** (Chapter II)\n\n` +
     `**1. Right to Life** (Section 4)\n` +
     `**2. Right to Personal Liberty** (Section 5)\n` +
@@ -221,10 +212,11 @@ bot.onText(/\/rights/, (msg) => {
     `**8. Freedom of Expression** (Section 12)\n` +
     `**9. Freedom of Assembly** (Section 13)\n` +
     `**10. Protection from Discrimination** (Section 14)\n\n` +
-    `💡 *Use /section [number] for full details*`;
+    `💡 *Use /section [number] for full details*\n` +
+    `💎 *Premium: Plain English explanations*`;
 
   bot.sendMessage(chatId, response, { parse_mode: 'Markdown' });
-  incrementQueryCount(userId);
+  // Note: /rights is an informational command, doesn't count against query limit
 });
 
 bot.onText(/\/government/, (msg) => {
